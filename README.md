@@ -1,2 +1,2 @@
-# ml
-Machine learning Algorithms
+# str
+Algorithms on strings
